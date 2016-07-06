@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo-utils\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo-utils\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo-utils\\build\\intermediates\\res\\merged\\debug\\layout\\asset_frag.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo-utils\\src\\main\\res\\layout\\asset_frag.xml"
+    }
+]

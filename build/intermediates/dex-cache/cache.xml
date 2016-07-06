@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_Samples\cwac-richedit-master\demo\build\intermediates\exploded-aar\cwac-richedit-master\richedit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2990c664a1e5f5ded69d6654da9b8614a309e3ff">
+        <dex dex="E:\Android_Samples\cwac-richedit-master\demo\build\intermediates\pre-dexed\debug\cwac-richedit-master-richedit-unspecified_a613dc4c3b382217d142669fc43ee53b6ec9114e.jar" />
+    </item>
+    <item
+        jar="E:\Android_Samples\cwac-richedit-master\demo\build\intermediates\exploded-aar\com.commonsware.cwac\colormixer\0.6.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79806a73bc32605b0f00109ad83006b54de1e65b">
+        <dex dex="E:\Android_Samples\cwac-richedit-master\demo\build\intermediates\pre-dexed\debug\com.commonsware.cwac-colormixer-0.6.1_315948a15385b0f1ecf80f90cf69423f9818ab6b.jar" />
+    </item>
+
+</items>

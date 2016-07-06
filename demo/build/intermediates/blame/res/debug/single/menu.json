@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_lines.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_lines.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_main.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_size.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_size.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\actions.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_colors.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_colors.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_entry.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_effects.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_effects.xml"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\cwac_richedittext_fonts.xml",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\menu\\cwac_richedittext_fonts.xml"
+    }
+]

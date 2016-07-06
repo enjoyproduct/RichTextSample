@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_format_dark.png",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\exploded-aar\\cwac-richedit-master\\richedit\\unspecified\\res\\drawable-mdpi-v4\\ic_action_format_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Samples\\cwac-richedit-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android_Samples\\cwac-richedit-master\\demo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

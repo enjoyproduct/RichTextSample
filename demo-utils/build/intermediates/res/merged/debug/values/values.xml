@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">CWAC RichTextUtils Demo</string>
+    <string name="cwac_richedittext_background">Background</string>
+    <string name="cwac_richedittext_bold">Bold</string>
+    <string name="cwac_richedittext_center">Center</string>
+    <string name="cwac_richedittext_color">Color</string>
+    <string name="cwac_richedittext_effects">Effects</string>
+    <string name="cwac_richedittext_fonts">Fonts</string>
+    <string name="cwac_richedittext_foreground">Foreground</string>
+    <string name="cwac_richedittext_format">Format</string>
+    <string name="cwac_richedittext_grow">Grow</string>
+    <string name="cwac_richedittext_italic">Italic</string>
+    <string name="cwac_richedittext_lines">Lines</string>
+    <string name="cwac_richedittext_mono">Monospace</string>
+    <string name="cwac_richedittext_normal">Normal</string>
+    <string name="cwac_richedittext_opposite">Opposite</string>
+    <string name="cwac_richedittext_sans">Sans Serif</string>
+    <string name="cwac_richedittext_serif">Serif</string>
+    <string name="cwac_richedittext_shrink">Shrink</string>
+    <string name="cwac_richedittext_size">Size</string>
+    <string name="cwac_richedittext_strikethrough">Strikethrough</string>
+    <string name="cwac_richedittext_subscript">Subscript</string>
+    <string name="cwac_richedittext_superscript">Superscript</string>
+    <string name="cwac_richedittext_underline">Underline</string>
+</resources>
